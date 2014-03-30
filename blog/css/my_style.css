@@ -1,0 +1,31 @@
+html {
+  overflow-y: scroll;
+}
+
+body {
+  padding-top: 60px;
+}
+
+
+h2 {
+  text-align: center;
+  margin-bottom: 10px;
+  color:red;
+}
+  
+#pie {
+  text-align: center;
+  margin-top: 5%;
+}
+
+#pie a:link {color: red;}
+#pie a:visited {color: orange} 
+#pie a:hover {color:blue;}
+  
+
+p {
+  text-align: center;
+  font-size: 1.1em;
+  line-height: 1.7em;
+}
+
